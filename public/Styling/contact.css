@@ -1,0 +1,20 @@
+
+.container{
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+}
+.title{
+    padding-bottom: 5px;
+    padding-top: 10px;
+    padding-left: 30px;
+    background-color: aqua;
+}
+.sections{
+    background-color: transparent;
+    margin-top: 20px;
+    margin-left: 5px;
+    font-size: smaller;
+    font-family: 'Times New Roman', Times, serif;
+}
+
